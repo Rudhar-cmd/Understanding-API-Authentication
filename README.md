@@ -33,7 +33,7 @@
 # How to Use
 - Clone the Repository:
   - ```bash
-    git clone https://github.com/Rudhar-cmd/API-Authentication-Demo.git
+    git clone https://github.com/Rudhar-cmd/Understanding API Authentication.git
     ```
 - Navigate into the Project Folder:
   - ```bash
